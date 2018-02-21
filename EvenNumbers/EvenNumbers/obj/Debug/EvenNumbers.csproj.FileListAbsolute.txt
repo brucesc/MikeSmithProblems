@@ -1,0 +1,7 @@
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe.config
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.exe
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\bin\Debug\EvenNumbers.pdb
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csprojResolveAssemblyReference.cache
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.csproj.CoreCompileInputs.cache
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.exe
+C:\repos\MikeSmithProblems\EvenNumbers\EvenNumbers\obj\Debug\EvenNumbers.pdb
